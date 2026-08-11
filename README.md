@@ -2,7 +2,7 @@
 
 > **Fictional CTF evidence mirror.** This repository contains invented material for the NX-Omega challenge only. It does not identify real people, services, or events.
 
-## Recovered margin note
+## SHD-02 / Recovered margin note
 
 The catalogue analyst left this instruction before the material was migrated:
 
